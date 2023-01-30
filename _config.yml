@@ -21,9 +21,7 @@
 title: Tech Solidarity Lab
 email: techsolidaritylab@andrew.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Tech Solidarity Lab at Carnegie Mellon University seeks to open new opportunities for community-driven technology development through design inquiry and participatory research.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://techsolidaritylab.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: labsolidarity
