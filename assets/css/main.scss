@@ -32,6 +32,10 @@ $table-group-separator-color: $secondary;
 @import 'bootstrap/bootstrap';
 @import 'fontawesome/fontawesome';
 
+html, body {
+  overflow-x: hidden;
+}
+
 .navbar {
   padding-right: 1rem;
   padding-left: 1rem;
